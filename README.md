@@ -49,28 +49,28 @@ Currently deeply focused on secure, scalable full-stack development, transitioni
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.shields.io/badge/Java-1a0f2e?style=for-the-badge&logo=java&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/Python-1a0f2e?style=for-the-badge&logo=python&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/JavaScript-1a0f2e?style=for-the-badge&logo=javascript&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/C++-1a0f2e?style=for-the-badge&logo=c%2B%2B&logoColor=A78BFA"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/React-1a0f2e?style=for-the-badge&logo=react&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/React_Native-1a0f2e?style=for-the-badge&logo=react&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-1a0f2e?style=for-the-badge&logo=tailwindcss&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/HTML5-1a0f2e?style=for-the-badge&logo=html5&logoColor=A78BFA"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Node.js-1a0f2e?style=for-the-badge&logo=node.js&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/Express.js-1a0f2e?style=for-the-badge&logo=express&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/MongoDB-1a0f2e?style=for-the-badge&logo=mongodb&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/SQLite-1a0f2e?style=for-the-badge&logo=sqlite&logoColor=A78BFA"/>
+        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Git-1a0f2e?style=for-the-badge&logo=git&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/GitHub-1a0f2e?style=for-the-badge&logo=github&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/VS_Code-1a0f2e?style=for-the-badge&logo=visualstudiocode&logoColor=A78BFA"/><br/>
-        <img src="https://img.shields.io/badge/Postman-1a0f2e?style=for-the-badge&logo=postman&logoColor=A78BFA"/>
+        <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
       </td>
     </tr>
   </table>
