@@ -2,6 +2,10 @@
 
 <br/>
 
+<img src="./banner.svg" alt="Shivansh T — software engineer, building in the quiet hours" width="100%"/>
+
+<br/>
+
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Shivansh+Tripathi+%C2%B7+Software+Engineer;Building+scalable+systems+%26+marketplaces;Full-Stack+(MERN)+%2B+AI%2FLLM+Integration)](https://github.com/Shivansh-here)
 
 <br/>
