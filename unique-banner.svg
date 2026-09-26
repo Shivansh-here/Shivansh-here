@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="250">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050308" />
+      <stop offset="100%" stop-color="#0a0612" />
+    </linearGradient>
+
+    <!-- Text Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a0f2e" stroke-width="1.5" />
+    </pattern>
+
+    <!-- CSS Animations -->
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes pulseGlow {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+      .node { animation: float 4s ease-in-out infinite; }
+      .node-delay { animation: float 5s ease-in-out infinite 2s; }
+      .text-glow { filter: url(#glow); animation: pulseGlow 3s infinite; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="250" fill="url(#bgGrad)" />
+  <rect width="800" height="250" fill="url(#grid)" opacity="0.5" />
+
+  <!-- Scanline Effect -->
+  <line x1="0" y1="0" x2="800" y2="0" stroke="#A78BFA" stroke-width="2" opacity="0.15">
+    <animate attributeName="y1" values="-10;260;-10" dur="8s" repeatCount="indefinite" />
+    <animate attributeName="y2" values="-10;260;-10" dur="8s" repeatCount="indefinite" />
+  </line>
+
+  <!-- Left Side: Terminal -->
+  <g transform="translate(40, 50)">
+    <rect width="370" height="150" rx="8" fill="#1a0f2e" opacity="0.85" stroke="#432874" stroke-width="1.5" />
+    <circle cx="15" cy="15" r="5" fill="#FF5F56" />
+    <circle cx="32" cy="15" r="5" fill="#FFBD2E" />
+    <circle cx="49" cy="15" r="5" fill="#27C93F" />
+    <line x1="0" y1="32" x2="370" y2="32" stroke="#432874" stroke-width="1" />
+    
+    <!-- Terminal Text -->
+    <text x="15" y="65" font-family="monospace" font-size="15" fill="#E8D5B7">shivansh@core ~ %</text>
+    <text x="175" y="65" font-family="monospace" font-size="15" fill="#A78BFA">./init_market.sh</text>
+    
+    <text x="15" y="95" font-family="monospace" font-size="13.5" fill="#A78BFA" opacity="0.8">[+] Booting BioGrid Services...</text>
+    <text x="15" y="115" font-family="monospace" font-size="13.5" fill="#A78BFA" opacity="0.8">[+] Authenticating Admin Core...</text>
+    <text x="15" y="135" font-family="monospace" font-size="13.5" fill="#27C93F" font-weight="bold">System Online &amp; Ready.</text>
+  </g>
+
+  <!-- Right Side: Glowing Architect Name -->
+  <g transform="translate(460, 110)">
+    <text x="0" y="0" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="46" fill="#E8D5B7">
+      SHIVANSH <tspan fill="#A78BFA" class="text-glow">T.</tspan>
+    </text>
+    <text x="2" y="32" font-family="monospace" font-size="15" fill="#A78BFA" opacity="0.9" letter-spacing="2.5">
+      FULL-STACK ARCHITECT
+    </text>
+  </g>
+
+  <!-- Floating Data Nodes representing BioGrid / Networks -->
+  <g class="node" transform="translate(710, 80)">
+    <circle cx="0" cy="0" r="7" fill="#A78BFA" class="text-glow" />
+    <line x1="0" y1="0" x2="35" y2="45" stroke="#A78BFA" stroke-width="2" opacity="0.6" />
+    <line x1="0" y1="0" x2="-40" y2="35" stroke="#A78BFA" stroke-width="2" opacity="0.6" />
+  </g>
+  <g class="node-delay" transform="translate(745, 125)">
+    <circle cx="0" cy="0" r="5" fill="#E8D5B7" />
+    <line x1="0" y1="0" x2="-75" y2="-10" stroke="#A78BFA" stroke-width="2" opacity="0.6" />
+  </g>
+  <g class="node" transform="translate(670, 115)">
+    <circle cx="0" cy="0" r="6" fill="#A78BFA" />
+  </g>
+</svg>
