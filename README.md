@@ -85,50 +85,68 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 <br/>
 
 <!-- Project 1: Prahari -->
-<div align="center">
-  <h3><a href="https://github.com/Shivansh-here/Prahari" style="text-decoration:none; color:inherit;">🛡️ PRAHARI — Smart Tourist Safety System</a></h3>
-  <p><b>In Progress • Smart India Hackathon (SIH-2026) Internal Qualifier</b></p>
-</div>
+<table width="100%">
+<tr>
+<td width="100%">
+<h3 align="center"><a href="https://github.com/Shivansh-here/Prahari" style="text-decoration:none; color:inherit;">🛡️ PRAHARI — Smart Tourist Safety System</a></h3>
+<p align="center"><b>In Progress • Smart India Hackathon (SIH-2026) Internal Qualifier</b></p>
+<hr/>
 <p align="center">
-  A comprehensive tourist safety platform with <b>real-time SOS alerts, live GPS tracking</b>, and <b>blockchain-based Digital ID issuance</b> using Ethereum smart contracts.
+A comprehensive tourist safety platform with <b>real-time SOS alerts, live GPS tracking</b>, and <b>blockchain-based Digital ID issuance</b> using Ethereum smart contracts.
 </p>
-<div align="center">
-  <code>React Native</code> • <code>Node.js + Express</code> • <code>MongoDB</code> • <code>React + Leaflet</code> • <code>Solidity + Hardhat</code> • <code>Socket.IO</code>
-</div>
+<br/>
+<p align="center">
+<code>React Native</code> • <code>Node.js + Express</code> • <code>MongoDB</code> • <code>React + Leaflet</code> • <code>Solidity + Hardhat</code> • <code>Socket.IO</code>
+</p>
 <br/>
 <p>🎯 <b>Mission:</b> Bridge tourist safety gaps across India through instant emergency coordination between tourists, law enforcement, and supervisors via a unified role-based system.</p>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <!-- Project 2: BioGrid -->
-<div align="center">
-  <h3><a href="https://github.com/Shivansh-here/BioGrid-Showcase" style="text-decoration:none; color:inherit;">🧬 BIOGRID INDIA — B2B Biotech Marketplace</a></h3>
-  <p><b>Completed • Full-Stack Marketplace Architecture</b></p>
-</div>
+<table width="100%">
+<tr>
+<td width="100%">
+<h3 align="center"><a href="https://github.com/Shivansh-here/BioGrid-Showcase" style="text-decoration:none; color:inherit;">🧬 BIOGRID INDIA — B2B Biotech Marketplace</a></h3>
+<p align="center"><b>Completed • Full-Stack Marketplace Architecture</b></p>
+<hr/>
 <p align="center">
-  A robust biotechnology marketplace featuring <b>live reverse-auctions, equipment booking calendars</b>, and <b>secure role-based access control</b> to streamline biotech commerce.
+A robust biotechnology marketplace featuring <b>live reverse-auctions, equipment booking calendars</b>, and <b>secure role-based access control</b> to streamline biotech commerce.
 </p>
-<div align="center">
-  <code>React.js</code> • <code>Node.js + Express</code> • <code>SQLite</code> • <code>Tailwind CSS</code> • <code>REST APIs</code>
-</div>
+<br/>
+<p align="center">
+<code>React.js</code> • <code>Node.js + Express</code> • <code>SQLite</code> • <code>Tailwind CSS</code> • <code>REST APIs</code>
+</p>
 <br/>
 <p>🎯 <b>Mission:</b> Democratize access to high-end biotech equipment and research materials by connecting verified laboratories directly with B2C consumers and B2B clients.</p>
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br/>
 
 <!-- Project 3: SkillSync -->
-<div align="center">
-  <h3><a href="https://github.com/Shivansh-here/SkillSync" style="text-decoration:none; color:inherit;">⚡ SKILLSYNC — AI Capability Discovery Platform</a></h3>
-  <p><b>In Progress • AI/NLP Integration Platform</b></p>
-</div>
+<table width="100%">
+<tr>
+<td width="100%">
+<h3 align="center"><a href="https://github.com/Shivansh-here/SkillSync" style="text-decoration:none; color:inherit;">⚡ SKILLSYNC — AI Capability Discovery Platform</a></h3>
+<p align="center"><b>In Progress • AI/NLP Integration Platform</b></p>
+<hr/>
 <p align="center">
-  An AI-powered capability discovery platform running <b>NLP gap-analysis</b> against live job market requirements to provide actionable, automated upskilling roadmaps.
+An AI-powered capability discovery platform running <b>NLP gap-analysis</b> against live job market requirements to provide actionable, automated upskilling roadmaps.
 </p>
-<div align="center">
-  <code>React.js</code> • <code>Python + Flask</code> • <code>Node.js</code> • <code>Firebase</code> • <code>Natural Language Processing</code>
-</div>
+<br/>
+<p align="center">
+<code>React.js</code> • <code>Python + Flask</code> • <code>Node.js</code> • <code>Firebase</code> • <code>Natural Language Processing</code>
+</p>
 <br/>
 <p>🎯 <b>Mission:</b> Eliminate the friction between academic curricula and industry expectations by algorithmically matching candidate skills to real-time market demands.</p>
+</td>
+</tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
