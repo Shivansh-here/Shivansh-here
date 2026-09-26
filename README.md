@@ -119,7 +119,7 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 <!-- Project 3: SkillSync -->
 <div align="center">
   <h3><a href="https://github.com/Shivansh-here/SkillSync" style="text-decoration:none; color:inherit;">⚡ SKILLSYNC — AI Capability Discovery Platform</a></h3>
-  <p><b>Completed • AI/NLP Integration Platform</b></p>
+  <p><b>In Progress • AI/NLP Integration Platform</b></p>
 </div>
 <p align="center">
   An AI-powered capability discovery platform running <b>NLP gap-analysis</b> against live job market requirements to provide actionable, automated upskilling roadmaps.
@@ -132,16 +132,23 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 
 <img src="./unique-divider.svg" width="100%"/>
 
-<h2 align="center">【 S t a t s 】</h2>
+<h2 align="center">【 S t a t s &nbsp; & &nbsp; S t r e a k s 】</h2>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivansh-here&theme=github_dark&bg_color=0a0612&title_color=A78BFA&text_color=E8D5B7&icon_color=A78BFA" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivansh-here&theme=dark&background=0a0612&ring=A78BFA&fire=A78BFA&currStreakNum=E8D5B7&currStreakLabel=A78BFA&sideNums=E8D5B7&sideLabels=A78BFA&dates=E8D5B7&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivansh-here&show_icons=true&theme=radical&bg_color=0a0612&title_color=A78BFA&text_color=E8D5B7&icon_color=A78BFA&hide_border=true" width="48%" />
 </div>
-<br/>
+
+<img src="./unique-divider.svg" width="100%"/>
+
+<h2 align="center">【 C o n t r i b u t i o n &nbsp; S n a k e 】</h2>
+
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shivansh-here&theme=github_dark&bg_color=0a0612&title_color=A78BFA&text_color=E8D5B7&icon_color=A78BFA" width="34%" />
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivansh-here&theme=github_dark&bg_color=0a0612&title_color=A78BFA&text_color=E8D5B7&icon_color=A78BFA" width="34%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shivansh-here/Shivansh-here/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shivansh-here/Shivansh-here/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shivansh-here/Shivansh-here/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <img src="./unique-divider.svg" width="100%"/>
