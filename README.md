@@ -43,40 +43,44 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 
 <h2 align="center">【 T e c h &nbsp; S t a c k 】</h2>
 
-<table>
+<div align="center">
+<table width="80%">
 <tr>
-<td width="50%" valign="top">
-<b>Languages</b><br/>
+<td width="50%" align="center" valign="top">
+<br/>
+<b>💻 Languages</b><br/>
 <img src="https://img.shields.io/badge/Java-1a0f2e?style=flat-square&logo=openjdk&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Python-1a0f2e?style=flat-square&logo=python&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/JavaScript-1a0f2e?style=flat-square&logo=javascript&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/C++-1a0f2e?style=flat-square&logo=c%2B%2B&logoColor=A78BFA"/><br/><br/>
-<b>Backend & APIs</b><br/>
+<b>⚙️ Backend & APIs</b><br/>
 <img src="https://img.shields.io/badge/Node.js-1a0f2e?style=flat-square&logo=node.js&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Express.js-1a0f2e?style=flat-square&logo=express&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/REST_APIs-1a0f2e?style=flat-square&logo=json&logoColor=A78BFA"/><br/><br/>
-<b>Databases</b><br/>
+<img src="https://img.shields.io/badge/Socket.IO-1a0f2e?style=flat-square&logo=socket.io&logoColor=A78BFA"/><br/><br/>
+<b>🗄️ Databases</b><br/>
 <img src="https://img.shields.io/badge/MongoDB-1a0f2e?style=flat-square&logo=mongodb&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/SQLite-1a0f2e?style=flat-square&logo=sqlite&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Firebase-1a0f2e?style=flat-square&logo=firebase&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Firebase-1a0f2e?style=flat-square&logo=firebase&logoColor=A78BFA"/><br/><br/>
 </td>
-<td width="50%" valign="top">
-<b>Frontend Tools</b><br/>
+<td width="50%" align="center" valign="top">
+<br/>
+<b>🎨 Frontend Tools</b><br/>
 <img src="https://img.shields.io/badge/React-1a0f2e?style=flat-square&logo=react&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/React_Native-1a0f2e?style=flat-square&logo=react&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-1a0f2e?style=flat-square&logo=tailwindcss&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/HTML5-1a0f2e?style=flat-square&logo=html5&logoColor=A78BFA"/><br/><br/>
-<b>Tools & Deployment</b><br/>
+<b>🛠️ Tools & Deployment</b><br/>
 <img src="https://img.shields.io/badge/Git-1a0f2e?style=flat-square&logo=git&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/GitHub-1a0f2e?style=flat-square&logo=github&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/VS_Code-1a0f2e?style=flat-square&logo=visualstudiocode&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/VS_Code-1a0f2e?style=flat-square&logo=visual%20studio%20code&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Postman-1a0f2e?style=flat-square&logo=postman&logoColor=A78BFA"/><br/><br/>
-<b>Currently Learning</b><br/>
-• <b>DSA</b> → strengthening fundamentals through problem solving<br/>
-• <b>System Design</b> → scalable backend architecture
+<b>🚀 Currently Learning</b><br/>
+<small>• <b>DSA</b> → strengthening fundamentals through problem solving</small><br/>
+<small>• <b>System Design</b> → scalable backend architecture</small><br/><br/>
 </td>
 </tr>
 </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
