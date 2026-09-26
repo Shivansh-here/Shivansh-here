@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/shivanshtripathi"><img src="https://img.shields.io/badge/-LinkedIn-1a0f2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
+<a href="https://www.linkedin.com/in/shivanshtripathi-/"><img src="https://img.shields.io/badge/-LinkedIn-1a0f2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/></a>
 &nbsp;
 <a href="mailto:shivanshhere18@gmail.com"><img src="https://img.shields.io/badge/-Email-1a0f2e?style=for-the-badge&logo=gmail&logoColor=A78BFA"/></a>
 &nbsp;
@@ -156,9 +156,9 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 </a>
 </td>
 <td align="center" width="120">
-<a href="https://linkedin.com/in/shivanshtripathi">
+<a href="https://www.linkedin.com/in/shivanshtripathi-/">
 <img src="https://img.shields.io/badge/linkedin-1a0f2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/><br/>
-<small>shivanshtripathi</small>
+<small>shivanshtripathi-</small>
 </a>
 </td>
 <td align="center" width="120">
