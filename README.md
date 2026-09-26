@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="./unique-divider.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">【 A b o u t 】</h2>
 
@@ -39,7 +39,7 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 </tr>
 </table>
 
-<img src="./unique-divider.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">【 T e c h &nbsp; S t a c k 】</h2>
 
@@ -78,7 +78,7 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 </tr>
 </table>
 
-<img src="./unique-divider.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">【 F e a t u r e d &nbsp; P r o j e c t s 】</h2>
 
@@ -130,7 +130,7 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 <br/>
 <p>🎯 <b>Mission:</b> Eliminate the friction between academic curricula and industry expectations by algorithmically matching candidate skills to real-time market demands.</p>
 
-<img src="./unique-divider.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">【 S t a t s &nbsp; & &nbsp; S t r e a k s 】</h2>
 
@@ -139,7 +139,7 @@ Currently deeply focused on secure, robust full-stack development, transitioning
   <img src="https://github-readme-stats.vercel.app/api?username=Shivansh-here&show_icons=true&theme=radical&bg_color=0a0612&title_color=A78BFA&text_color=E8D5B7&icon_color=A78BFA&hide_border=true" width="48%" />
 </div>
 
-<img src="./unique-divider.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">【 C o n t r i b u t i o n &nbsp; S n a k e 】</h2>
 
@@ -151,7 +151,7 @@ Currently deeply focused on secure, robust full-stack development, transitioning
   </picture>
 </div>
 
-<img src="./unique-divider.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">【 C e r t i f i c a t i o n s 】</h2>
 
@@ -161,7 +161,7 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 <li>🏆 <b>Database Administration Workshop (Oracle)</b> — <i>Infosys Springboard</i></li>
 </ul>
 
-<img src="./unique-divider.svg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <h2 align="center">【 E l s e w h e r e 】</h2>
 
