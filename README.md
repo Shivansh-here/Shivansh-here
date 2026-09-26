@@ -80,43 +80,55 @@ Currently deeply focused on secure, robust full-stack development, transitioning
 
 <img src="./unique-divider.svg" width="100%"/>
 
-<h2 align="center">【 P r o j e c t s 】</h2>
+<h2 align="center">【 F e a t u r e d &nbsp; P r o j e c t s 】</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Shivansh-here/BioGrid-Showcase">🧬 BioGrid India</a></h3>
-<p>A B2B/B2C biotech marketplace featuring live reverse-auctions, equipment booking calendars, and robust role-based access control.</p>
-<p>
-<img src="https://img.shields.io/badge/-React-1a0f2e?style=flat-square&logo=react&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/-Node.js-1a0f2e?style=flat-square&logo=nodedotjs&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/-Tailwind-1a0f2e?style=flat-square&logo=tailwindcss&logoColor=A78BFA"/>
+<br/>
+
+<!-- Project 1: Prahari -->
+<div align="center">
+  <h3><a href="https://github.com/Shivansh-here/Prahari" style="text-decoration:none; color:inherit;">🛡️ PRAHARI — Smart Tourist Safety System</a></h3>
+  <p><b>In Progress • Smart India Hackathon (SIH-2026) Internal Qualifier</b></p>
+</div>
+<p align="center">
+  A comprehensive tourist safety platform with <b>real-time SOS alerts, live GPS tracking</b>, and <b>blockchain-based Digital ID issuance</b> using Ethereum smart contracts.
 </p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Shivansh-here/Prahari">🛡️ Prahari</a></h3>
-<p>Smart tourist safety platform with real-time SOS alerts, blockchain-based Digital Tourist IDs, and AI-driven anomaly detection.</p>
-<p>
-<img src="https://img.shields.io/badge/-React_Native-1a0f2e?style=flat-square&logo=react&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/-MongoDB-1a0f2e?style=flat-square&logo=mongodb&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/-Solidity-1a0f2e?style=flat-square&logo=solidity&logoColor=A78BFA"/>
+<div align="center">
+  <code>React Native</code> • <code>Node.js + Express</code> • <code>MongoDB</code> • <code>React + Leaflet</code> • <code>Solidity + Hardhat</code> • <code>Socket.IO</code>
+</div>
+<br/>
+<p>🎯 <b>Mission:</b> Bridge tourist safety gaps across India through instant emergency coordination between tourists, law enforcement, and supervisors via a unified role-based system.</p>
+
+<br/><br/>
+
+<!-- Project 2: BioGrid -->
+<div align="center">
+  <h3><a href="https://github.com/Shivansh-here/BioGrid-Showcase" style="text-decoration:none; color:inherit;">🧬 BIOGRID INDIA — B2B Biotech Marketplace</a></h3>
+  <p><b>Completed • Full-Stack Marketplace Architecture</b></p>
+</div>
+<p align="center">
+  A robust biotechnology marketplace featuring <b>live reverse-auctions, equipment booking calendars</b>, and <b>secure role-based access control</b> to streamline biotech commerce.
 </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/Shivansh-here/SkillSync">⚡ SkillSync</a></h3>
-<p>AI-powered capability discovery platform running NLP gap-analysis against live job market requirements.</p>
-<p>
-<img src="https://img.shields.io/badge/-React-1a0f2e?style=flat-square&logo=react&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/-Python-1a0f2e?style=flat-square&logo=python&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/-Firebase-1a0f2e?style=flat-square&logo=firebase&logoColor=A78BFA"/>
+<div align="center">
+  <code>React.js</code> • <code>Node.js + Express</code> • <code>SQLite</code> • <code>Tailwind CSS</code> • <code>REST APIs</code>
+</div>
+<br/>
+<p>🎯 <b>Mission:</b> Democratize access to high-end biotech equipment and research materials by connecting verified laboratories directly with B2C consumers and B2B clients.</p>
+
+<br/><br/>
+
+<!-- Project 3: SkillSync -->
+<div align="center">
+  <h3><a href="https://github.com/Shivansh-here/SkillSync" style="text-decoration:none; color:inherit;">⚡ SKILLSYNC — AI Capability Discovery Platform</a></h3>
+  <p><b>Completed • AI/NLP Integration Platform</b></p>
+</div>
+<p align="center">
+  An AI-powered capability discovery platform running <b>NLP gap-analysis</b> against live job market requirements to provide actionable, automated upskilling roadmaps.
 </p>
-</td>
-<td width="50%" valign="top">
-</td>
-</tr>
-</table>
+<div align="center">
+  <code>React.js</code> • <code>Python + Flask</code> • <code>Node.js</code> • <code>Firebase</code> • <code>Natural Language Processing</code>
+</div>
+<br/>
+<p>🎯 <b>Mission:</b> Eliminate the friction between academic curricula and industry expectations by algorithmically matching candidate skills to real-time market demands.</p>
 
 <img src="./unique-divider.svg" width="100%"/>
 
