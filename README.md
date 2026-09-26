@@ -2,7 +2,7 @@
 
 <br/>
 
-<img src="./unique-banner.svg?v=3" alt="Shivansh T — software engineer, building in the quiet hours" width="100%"/>
+<img src="./unique-banner.svg?v=4" alt="Shivansh T — software engineer, building in the quiet hours" width="100%"/>
 
 <br/>
 

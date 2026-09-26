@@ -8,97 +8,71 @@
 
     <!-- Text Glow -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
       <feMerge>
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Grid Pattern -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1a0f2e" stroke-width="1.5" />
-    </pattern>
-
     <!-- CSS Animations -->
     <style>
-      @keyframes float {
-        0%, 100% { transform: translateY(0); }
-        50% { transform: translateY(-10px); }
+      @keyframes floatUp {
+        0% { transform: translateY(260px) translateX(0px); opacity: 0; }
+        20% { opacity: 0.8; }
+        80% { opacity: 0.8; }
+        100% { transform: translateY(-20px) translateX(25px); opacity: 0; }
       }
-      @keyframes pulseGlow {
-        0%, 100% { opacity: 0.6; }
-        50% { opacity: 1; }
+      @keyframes floatUpLeft {
+        0% { transform: translateY(260px) translateX(0px); opacity: 0; }
+        20% { opacity: 0.6; }
+        80% { opacity: 0.6; }
+        100% { transform: translateY(-20px) translateX(-35px); opacity: 0; }
       }
-      @keyframes flyShuttle {
-        0% { transform: translate(-50px, 220px) rotate(35deg); opacity: 0; }
-        10% { opacity: 1; }
-        90% { opacity: 1; }
-        100% { transform: translate(850px, -20px) rotate(35deg); opacity: 0; }
+      @keyframes pulseText {
+        0%, 100% { opacity: 0.9; filter: drop-shadow(0 0 8px rgba(167,139,250,0.4)); }
+        50% { opacity: 1; filter: drop-shadow(0 0 15px rgba(167,139,250,0.8)); }
       }
-      .node { animation: float 4s ease-in-out infinite; }
-      .node-delay { animation: float 5s ease-in-out infinite 2s; }
-      .text-glow { filter: url(#glow); animation: pulseGlow 3s infinite; }
-      .shuttle { animation: flyShuttle 15s linear infinite; filter: url(#glow); }
+      .firefly-1 { animation: floatUp 8s ease-in-out infinite; fill: #A78BFA; filter: url(#glow); }
+      .firefly-2 { animation: floatUpLeft 12s ease-in-out infinite 2s; fill: #E8D5B7; filter: url(#glow); }
+      .firefly-3 { animation: floatUp 10s ease-in-out infinite 4s; fill: #432874; filter: url(#glow); }
+      .firefly-4 { animation: floatUpLeft 15s ease-in-out infinite 1s; fill: #A78BFA; filter: url(#glow); }
+      .firefly-5 { animation: floatUp 9s ease-in-out infinite 3s; fill: #E8D5B7; filter: url(#glow); }
+      .firefly-6 { animation: floatUpLeft 11s ease-in-out infinite 5s; fill: #A78BFA; filter: url(#glow); }
+      
+      .name { animation: pulseText 4s infinite; }
     </style>
   </defs>
 
   <!-- Background -->
   <rect width="800" height="250" fill="url(#bgGrad)" />
-  <rect width="800" height="250" fill="url(#grid)" opacity="0.5" />
 
-  <!-- Subtle Shuttle Animation -->
-  <g class="shuttle">
-    <text x="0" y="0" font-size="22">🚀</text>
-    <!-- Exhaust trail -->
-    <line x1="-5" y1="20" x2="-25" y2="40" stroke="#A78BFA" stroke-width="2" opacity="0.4" />
-    <line x1="-2" y1="22" x2="-15" y2="35" stroke="#FF5F56" stroke-width="1.5" opacity="0.6" />
-  </g>
+  <!-- Nature / Firefly Particles -->
+  <circle cx="100" cy="0" r="3" class="firefly-1" />
+  <circle cx="250" cy="0" r="2" class="firefly-2" />
+  <circle cx="400" cy="0" r="4" class="firefly-3" />
+  <circle cx="550" cy="0" r="2" class="firefly-4" />
+  <circle cx="700" cy="0" r="3" class="firefly-5" />
+  <circle cx="150" cy="0" r="4" class="firefly-6" />
+  <circle cx="300" cy="0" r="2.5" class="firefly-1" style="animation-delay: 5s;" />
+  <circle cx="450" cy="0" r="3" class="firefly-2" style="animation-delay: 7s;" />
+  <circle cx="600" cy="0" r="2" class="firefly-3" style="animation-delay: 1s;" />
+  <circle cx="750" cy="0" r="3.5" class="firefly-4" style="animation-delay: 6s;" />
+  <circle cx="50" cy="0" r="2" class="firefly-5" style="animation-delay: 4s;" />
+  <circle cx="350" cy="0" r="3" class="firefly-6" style="animation-delay: 8s;" />
 
-  <!-- Scanline Effect -->
-  <line x1="0" y1="0" x2="800" y2="0" stroke="#A78BFA" stroke-width="2" opacity="0.15">
-    <animate attributeName="y1" values="-10;260;-10" dur="8s" repeatCount="indefinite" />
-    <animate attributeName="y2" values="-10;260;-10" dur="8s" repeatCount="indefinite" />
-  </line>
+  <!-- Ground / Subtle Nature Silhouettes (Glowing Hills) -->
+  <path d="M0,250 Q150,215 400,235 T800,225 L800,250 L0,250 Z" fill="#1a0f2e" opacity="0.7" />
+  <path d="M0,250 Q250,205 500,230 T800,215 L800,250 L0,250 Z" fill="#432874" opacity="0.3" />
 
-  <!-- Left Side: Terminal -->
-  <g transform="translate(40, 50)">
-    <rect width="370" height="150" rx="8" fill="#1a0f2e" opacity="0.85" stroke="#432874" stroke-width="1.5" />
-    <circle cx="15" cy="15" r="5" fill="#FF5F56" />
-    <circle cx="32" cy="15" r="5" fill="#FFBD2E" />
-    <circle cx="49" cy="15" r="5" fill="#27C93F" />
-    <line x1="0" y1="32" x2="370" y2="32" stroke="#432874" stroke-width="1" />
-    
-    <!-- Terminal Text -->
-    <text x="15" y="65" font-family="monospace" font-size="15" fill="#E8D5B7">shivansh@dev ~ %</text>
-    <text x="165" y="65" font-family="monospace" font-size="15" fill="#A78BFA">./init_profile.sh</text>
-    
-    <text x="15" y="95" font-family="monospace" font-size="13.5" fill="#A78BFA" opacity="0.8">[+] Compiling MERN Stack architecture...</text>
-    <text x="15" y="115" font-family="monospace" font-size="13.5" fill="#A78BFA" opacity="0.8">[+] Connecting to AI/LLM Neural Nets...</text>
-    <text x="15" y="135" font-family="monospace" font-size="13.5" fill="#27C93F" font-weight="bold">Profile Loaded Successfully.</text>
-  </g>
-
-  <!-- Right Side: Glowing Architect Name -->
-  <g transform="translate(460, 110)">
-    <text x="0" y="0" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="46" fill="#E8D5B7">
-      SHIVANSH <tspan fill="#A78BFA" class="text-glow">T.</tspan>
+  <!-- Centered Typography -->
+  <g transform="translate(400, 115)" text-anchor="middle">
+    <text x="0" y="0" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="52" fill="#E8D5B7" class="name">
+      SHIVANSH <tspan fill="#A78BFA">T.</tspan>
     </text>
-    <text x="2" y="32" font-family="monospace" font-size="15" fill="#A78BFA" opacity="0.9" letter-spacing="2.5">
+    <text x="0" y="45" font-family="monospace" font-size="15" fill="#A78BFA" opacity="0.9" letter-spacing="4">
       FULL-STACK ARCHITECT
     </text>
   </g>
 
-  <!-- Floating Data Nodes representing BioGrid / Networks -->
-  <g class="node" transform="translate(710, 80)">
-    <circle cx="0" cy="0" r="7" fill="#A78BFA" class="text-glow" />
-    <line x1="0" y1="0" x2="35" y2="45" stroke="#A78BFA" stroke-width="2" opacity="0.6" />
-    <line x1="0" y1="0" x2="-40" y2="35" stroke="#A78BFA" stroke-width="2" opacity="0.6" />
-  </g>
-  <g class="node-delay" transform="translate(745, 125)">
-    <circle cx="0" cy="0" r="5" fill="#E8D5B7" />
-    <line x1="0" y1="0" x2="-75" y2="-10" stroke="#A78BFA" stroke-width="2" opacity="0.6" />
-  </g>
-  <g class="node" transform="translate(670, 115)">
-    <circle cx="0" cy="0" r="6" fill="#A78BFA" />
-  </g>
 </svg>
