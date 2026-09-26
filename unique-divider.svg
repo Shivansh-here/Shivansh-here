@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40">
+  <defs>
+    <!-- Glowing Effect -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Left Line -->
+  <line x1="0%" y1="20" x2="48%" y2="20" stroke="#1a0f2e" stroke-width="1.5" />
+  
+  <!-- Center Accent -->
+  <circle cx="50%" cy="20" r="3" fill="#A78BFA" filter="url(#glow)" />
+  <circle cx="48%" cy="20" r="1.5" fill="#432874" />
+  <circle cx="52%" cy="20" r="1.5" fill="#432874" />
+
+  <!-- Right Line -->
+  <line x1="52%" y1="20" x2="100%" y2="20" stroke="#1a0f2e" stroke-width="1.5" />
+</svg>

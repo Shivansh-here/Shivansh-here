@@ -18,7 +18,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/MKishoreDev/MKishoreDev/main/assets/divider.svg" width="100%"/>
+<img src="./unique-divider.svg" width="100%"/>
 
 <h2 align="center">【 A b o u t 】</h2>
 
@@ -39,7 +39,7 @@ Currently deeply focused on secure, scalable full-stack development, transitioni
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/MKishoreDev/MKishoreDev/main/assets/divider.svg" width="100%"/>
+<img src="./unique-divider.svg" width="100%"/>
 
 <h2 align="center">【 S k i l l s 】</h2>
 
@@ -80,7 +80,7 @@ Currently deeply focused on secure, scalable full-stack development, transitioni
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/MKishoreDev/MKishoreDev/main/assets/divider.svg" width="100%"/>
+<img src="./unique-divider.svg" width="100%"/>
 
 <h2 align="center">【 S t a t s 】</h2>
 
@@ -94,7 +94,7 @@ Currently deeply focused on secure, scalable full-stack development, transitioni
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shivansh-here&theme=github_dark&bg_color=0a0612&title_color=A78BFA&text_color=E8D5B7&icon_color=A78BFA" width="34%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/MKishoreDev/MKishoreDev/main/assets/divider.svg" width="100%"/>
+<img src="./unique-divider.svg" width="100%"/>
 
 <h2 align="center">【 P r o j e c t s 】</h2>
 
