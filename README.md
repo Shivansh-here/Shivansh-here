@@ -124,4 +124,39 @@ Currently deeply focused on secure, scalable full-stack development, transitioni
   </tr>
 </table>
 
-<br/><br/>
+<img src="./unique-divider.svg" width="100%"/>
+
+<h2 align="center">【 E l s e w h e r e 】</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <a href="https://github.com/Shivansh-here">
+          <img src="https://img.shields.io/badge/github-1a0f2e?style=for-the-badge&logo=github&logoColor=A78BFA"/><br/>
+          <small>@Shivansh-here</small>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://linkedin.com/in/shivanshtripathi">
+          <img src="https://img.shields.io/badge/linkedin-1a0f2e?style=for-the-badge&logo=linkedin&logoColor=A78BFA"/><br/>
+          <small>shivanshtripathi</small>
+        </a>
+      </td>
+      <td align="center" width="120">
+        <a href="mailto:shivanshhere18@gmail.com">
+          <img src="https://img.shields.io/badge/email-1a0f2e?style=for-the-badge&logo=gmail&logoColor=A78BFA"/><br/>
+          <small>shivanshhere18</small>
+        </a>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <p><i>looking for other social links (instagram, discord, x, etc.)? find them all on my <b>portfolio website.</b></i></p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a0f2e&height=120&section=footer&text=%E2%80%9Cquietly+building+things+that+just+work.%E2%80%9D&fontSize=16&fontAlignY=40&desc=--+SHIVANSH+T.+--&descAlignY=65&descSize=12" width="100%" />
+</div>
