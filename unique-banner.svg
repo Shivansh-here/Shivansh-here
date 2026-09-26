@@ -55,12 +55,12 @@
     <line x1="0" y1="32" x2="370" y2="32" stroke="#432874" stroke-width="1" />
     
     <!-- Terminal Text -->
-    <text x="15" y="65" font-family="monospace" font-size="15" fill="#E8D5B7">shivansh@core ~ %</text>
-    <text x="175" y="65" font-family="monospace" font-size="15" fill="#A78BFA">./init_market.sh</text>
+    <text x="15" y="65" font-family="monospace" font-size="15" fill="#E8D5B7">shivansh@dev ~ %</text>
+    <text x="165" y="65" font-family="monospace" font-size="15" fill="#A78BFA">./init_profile.sh</text>
     
-    <text x="15" y="95" font-family="monospace" font-size="13.5" fill="#A78BFA" opacity="0.8">[+] Booting BioGrid Services...</text>
-    <text x="15" y="115" font-family="monospace" font-size="13.5" fill="#A78BFA" opacity="0.8">[+] Authenticating Admin Core...</text>
-    <text x="15" y="135" font-family="monospace" font-size="13.5" fill="#27C93F" font-weight="bold">System Online &amp; Ready.</text>
+    <text x="15" y="95" font-family="monospace" font-size="13.5" fill="#A78BFA" opacity="0.8">[+] Compiling MERN Stack architecture...</text>
+    <text x="15" y="115" font-family="monospace" font-size="13.5" fill="#A78BFA" opacity="0.8">[+] Connecting to AI/LLM Neural Nets...</text>
+    <text x="15" y="135" font-family="monospace" font-size="13.5" fill="#27C93F" font-weight="bold">Profile Loaded Successfully.</text>
   </g>
 
   <!-- Right Side: Glowing Architect Name -->
