@@ -67,11 +67,11 @@
 
   <!-- Centered Typography -->
   <g transform="translate(400, 115)" text-anchor="middle">
-    <text x="0" y="0" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="52" fill="#E8D5B7" class="name">
-      SHIVANSH <tspan fill="#A78BFA">T.</tspan>
+    <text x="0" y="0" font-family="'Segoe UI', Roboto, Helvetica, sans-serif" font-weight="800" font-size="44" fill="#E8D5B7" class="name">
+      SHIVANSH <tspan fill="#A78BFA">TRIPATHI</tspan>
     </text>
-    <text x="0" y="45" font-family="monospace" font-size="15" fill="#A78BFA" opacity="0.9" letter-spacing="4">
-      FULL-STACK ARCHITECT
+    <text x="0" y="40" font-family="monospace" font-size="14" fill="#A78BFA" opacity="0.9" letter-spacing="3">
+      FULL-STACK DEVELOPER • CRITICAL THINKER
     </text>
   </g>
 
