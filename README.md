@@ -22,22 +22,25 @@
 
 <h2 align="center">【 A b o u t 】</h2>
 
-> Third-year Information Technology undergraduate building high-performance web apps, APIs, and scalable platforms. 
+<div align="center">
+  <p>
+    <b>Third-year Information Technology undergraduate</b> building high-performance web apps, APIs, and scalable platforms.<br/>
+    Currently deeply focused on secure, robust full-stack development, transitioning complex ideas into production-ready software.
+  </p>
 
-Currently deeply focused on secure, robust full-stack development, transitioning complex ideas into production-ready software.
-
-<table>
-<tr>
-<td>📍</td><td><b>Greater Noida, India</b></td>
-<td>&nbsp;&nbsp;&nbsp;</td>
-<td>🎓</td><td><b>B.Tech IT</b> · Galgotias College (2028)</td>
-</tr>
-<tr>
-<td>💻</td><td>Building <b>Scalable Web Applications</b></td>
-<td></td>
-<td>🚀</td><td>Fluent in <b>React, Node.js, Java</b></td>
-</tr>
-</table>
+  <table>
+    <tr>
+      <td>📍 <b>Location:</b> Greater Noida, India</td>
+      <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+      <td>🎓 <b>Education:</b> B.Tech IT (2028)</td>
+    </tr>
+    <tr>
+      <td>💻 <b>Focus:</b> Scalable Web Architecture</td>
+      <td></td>
+      <td>🚀 <b>Stack:</b> React, Node.js, Java</td>
+    </tr>
+  </table>
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
